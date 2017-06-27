@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aRBaseLib-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/nftBook/build/intermediates/exploded-aar/nftBookProj/aRBaseLib/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/nftBook/build/intermediates/exploded-aar/nftBookProj/aRBaseLib/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

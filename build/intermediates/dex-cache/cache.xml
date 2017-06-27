@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pejko\Desktop\fet\AndroidStudioProjects\nftBookProj\nftBook\build\intermediates\exploded-aar\nftBookProj\aRBaseLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
+        <dex dex="C:\Users\Pejko\Desktop\fet\AndroidStudioProjects\nftBookProj\nftBook\build\intermediates\pre-dexed\debug\nftBookProj-aRBaseLib-unspecified_e4208ea427a0939056f3684dceec83407b9cf5f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pejko\Desktop\fet\AndroidStudioProjects\nftBookProj\nftBook\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Pejko\Desktop\fet\AndroidStudioProjects\nftBookProj\nftBook\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_8a36c14ccd1d47dee7e3a120d6f914e89f2bb87d.jar" />
+    </item>
+
+</items>

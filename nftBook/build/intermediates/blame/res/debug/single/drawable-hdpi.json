@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Pejko\\Desktop\\fet\\AndroidStudioProjects\\nftBookProj\\nftBook\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Pejko\\Desktop\\fet\\AndroidStudioProjects\\nftBookProj\\nftBook\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Pejko\\Desktop\\fet\\AndroidStudioProjects\\nftBookProj\\nftBook\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\settings.png",
+        "source": "C:\\Users\\Pejko\\Desktop\\fet\\AndroidStudioProjects\\nftBookProj\\nftBook\\build\\intermediates\\exploded-aar\\nftBookProj\\aRBaseLib\\unspecified\\res\\drawable-hdpi\\settings.png"
+    }
+]

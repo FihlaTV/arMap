@@ -1,0 +1,40 @@
+<resources>
+
+    <dimen name="content_padding">16dp</dimen>
+    <dimen name="content_label_height">16dp</dimen>
+    <dimen name="content_label_text_size">12sp</dimen>
+    <dimen name="content_value_text_size">21sp</dimen>
+    <dimen name="content_row_value_text_size">16sp</dimen>
+
+    <dimen name="content_button_padding">8dp</dimen>
+    <dimen name="content_button_height">38dp</dimen>
+    <dimen name="content_button_text_size">16sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="dashboard_item_height">80dp</dimen>
+    <dimen name="dashboard_item_padding">12dp</dimen>
+    <dimen name="dashboard_item_icon_dim">50dp</dimen>
+    <dimen name="dashboard_item_name_size">24sp</dimen>
+    <dimen name="dashboard_item_description_size">13sp</dimen>
+    <dimen name="edict_item_name_size">21sp</dimen>
+    <dimen name="edict_item_description_size">10sp</dimen>
+
+
+
+    <dimen name="dialog_width">300dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="padding_smallest">4dp</dimen>
+    <dimen name="padding_smaller">6dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="padding_big">12dp</dimen>
+    <dimen name="padding_bigger">14dp</dimen>
+    <dimen name="padding_biggest">16dp</dimen>
+</resources>
